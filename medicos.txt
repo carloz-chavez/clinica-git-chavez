@@ -2,3 +2,4 @@ medicos.txt
     MÉDICOS (DATOS FICTICIOS)
     Dra. Ana Prueba - Medicina General
     Dr. Luis Ejemplo - Pediatría
+    Dr. Pedro Muestra - Cardiología
